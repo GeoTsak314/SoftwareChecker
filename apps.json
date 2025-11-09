@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Sergei Strelec",
+      "category": "Security - BootUSB Rescue",
+      "description": "",
+      "type": "webpage_regex",
+      "current_version": "2025.09.07",
+      "url": "https://sergeistrelec.name/version_history_en.html",
+      "regex": "Sergei\\s*Strelec\\s*\\(x86\\/x64\\/Native\\s*x86\\)(?:\\s|&nbsp;|<[^>]*>|[-–—])*?(\\d{4}\\.\\d{2}\\.\\d{2})",
+      "direct_dl": "https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/"
+    }
+  ]
+}
